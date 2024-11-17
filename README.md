@@ -1,8 +1,8 @@
 # Project name: HarvardX--S50P
-# This is CS50's Introduction to Programming with Python for my personal learning and practices
+# This is CS50's Introduction to Programming with Python for my learning and practices
 - Author: Zagorka Martinović
 - Version 0.0.1
-- Files will be added as I progress through this course so for the time being, I do not recommend using this repository. My recommendation is just a recommendation -  you are free to clone it if you like
+- Files will be added as I progress through this course so I do not recommend using this repository for the time being. My recommendation is just a recommendation -  you are free to clone it if you like
 
 # Using the repository
 - Everything that starts with # is a comment, everything that starts with """ is actual code.
