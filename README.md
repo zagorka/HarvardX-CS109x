@@ -1,7 +1,7 @@
 # Project name: HarvardX-CS109x
 # This is CS50's Introduction to Programming with Python for my personal learning and practices
 - Author: Zagorka Martinović
-- Version 0.0.1
+- Version 0.0.1 main
 - Files will be added as I pogress this cource but for time being, I do not reccomend using repository.My reccomendation si just reccomentatio -  you are free to use it  it if you like
 
 # Using repository:
